@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6F8402-6726-456C-9045-A04A76D748AF}|Laboratorio14\\Laboratorio14.csproj|c:\\users\\asus\\source\\repos\\ds4\\laboratorio14\\laboratorio14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A6F8402-6726-456C-9045-A04A76D748AF}|Laboratorio14\\Laboratorio14.csproj|solutionrelative:laboratorio14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio14\\Laboratorio14\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio14\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio14\\Laboratorio14\\Form1.cs [Design]",
+              "RelativeToolTip": "Laboratorio14\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T00:03:18.928Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
