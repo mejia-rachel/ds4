@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio82\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{742DF8F8-B6E0-420F-B3A8-CB590DCBE59E}|Laboratorio82\\Laboratorio82.csproj|c:\\users\\asus\\source\\repos\\ds4\\laboratorio 8\\laboratorio82\\laboratorio82\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742DF8F8-B6E0-420F-B3A8-CB590DCBE59E}|Laboratorio82\\Laboratorio82.csproj|solutionrelative:laboratorio82\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742DF8F8-B6E0-420F-B3A8-CB590DCBE59E}|Laboratorio82\\Laboratorio82.csproj|c:\\users\\asus\\source\\repos\\ds4\\laboratorio 8\\laboratorio82\\laboratorio82\\cuentaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742DF8F8-B6E0-420F-B3A8-CB590DCBE59E}|Laboratorio82\\Laboratorio82.csproj|solutionrelative:laboratorio82\\cuentaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742DF8F8-B6E0-420F-B3A8-CB590DCBE59E}|Laboratorio82\\Laboratorio82.csproj|c:\\users\\asus\\source\\repos\\ds4\\laboratorio 8\\laboratorio82\\laboratorio82\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742DF8F8-B6E0-420F-B3A8-CB590DCBE59E}|Laboratorio82\\Laboratorio82.csproj|solutionrelative:laboratorio82\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742DF8F8-B6E0-420F-B3A8-CB590DCBE59E}|Laboratorio82\\Laboratorio82.csproj|c:\\users\\asus\\source\\repos\\ds4\\laboratorio 8\\laboratorio82\\laboratorio82\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742DF8F8-B6E0-420F-B3A8-CB590DCBE59E}|Laboratorio82\\Laboratorio82.csproj|solutionrelative:laboratorio82\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CuentaAhorro.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio82\\Laboratorio82\\CuentaAhorro.cs",
+              "RelativeDocumentMoniker": "Laboratorio82\\CuentaAhorro.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio82\\Laboratorio82\\CuentaAhorro.cs",
+              "RelativeToolTip": "Laboratorio82\\CuentaAhorro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:12:07.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaCorriente.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio82\\Laboratorio82\\CuentaCorriente.cs",
+              "RelativeDocumentMoniker": "Laboratorio82\\CuentaCorriente.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio82\\Laboratorio82\\CuentaCorriente.cs",
+              "RelativeToolTip": "Laboratorio82\\CuentaCorriente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:11:09.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio82\\Laboratorio82\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Laboratorio82\\Cuenta.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio82\\Laboratorio82\\Cuenta.cs",
+              "RelativeToolTip": "Laboratorio82\\Cuenta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:08:58.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio82\\Laboratorio82\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio82\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio82\\Laboratorio82\\Program.cs",
+              "RelativeToolTip": "Laboratorio82\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:06:22.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
