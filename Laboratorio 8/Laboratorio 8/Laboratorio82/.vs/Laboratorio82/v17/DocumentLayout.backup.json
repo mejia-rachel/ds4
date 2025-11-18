@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio82\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{742DF8F8-B6E0-420F-B3A8-CB590DCBE59E}|Laboratorio82\\Laboratorio82.csproj|c:\\users\\asus\\source\\repos\\ds4\\laboratorio 8\\laboratorio82\\laboratorio82\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742DF8F8-B6E0-420F-B3A8-CB590DCBE59E}|Laboratorio82\\Laboratorio82.csproj|solutionrelative:laboratorio82\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio82\\Laboratorio82\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio82\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio82\\Laboratorio82\\Program.cs",
+              "RelativeToolTip": "Laboratorio82\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:06:22.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

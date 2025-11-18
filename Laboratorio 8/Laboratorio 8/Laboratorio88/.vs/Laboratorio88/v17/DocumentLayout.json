@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio88\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60910FC5-6BF6-439C-9B10-46D583A26401}|Laboratorio88\\Laboratorio88.csproj|c:\\users\\asus\\source\\repos\\ds4\\laboratorio 8\\laboratorio88\\laboratorio88\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60910FC5-6BF6-439C-9B10-46D583A26401}|Laboratorio88\\Laboratorio88.csproj|solutionrelative:laboratorio88\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60910FC5-6BF6-439C-9B10-46D583A26401}|Laboratorio88\\Laboratorio88.csproj|c:\\users\\asus\\source\\repos\\ds4\\laboratorio 8\\laboratorio88\\laboratorio88\\claseconcreta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60910FC5-6BF6-439C-9B10-46D583A26401}|Laboratorio88\\Laboratorio88.csproj|solutionrelative:laboratorio88\\claseconcreta2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60910FC5-6BF6-439C-9B10-46D583A26401}|Laboratorio88\\Laboratorio88.csproj|c:\\users\\asus\\source\\repos\\ds4\\laboratorio 8\\laboratorio88\\laboratorio88\\claseconcreta1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60910FC5-6BF6-439C-9B10-46D583A26401}|Laboratorio88\\Laboratorio88.csproj|solutionrelative:laboratorio88\\claseconcreta1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60910FC5-6BF6-439C-9B10-46D583A26401}|Laboratorio88\\Laboratorio88.csproj|c:\\users\\asus\\source\\repos\\ds4\\laboratorio 8\\laboratorio88\\laboratorio88\\claseabstracta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60910FC5-6BF6-439C-9B10-46D583A26401}|Laboratorio88\\Laboratorio88.csproj|solutionrelative:laboratorio88\\claseabstracta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClaseConcreta2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio88\\Laboratorio88\\ClaseConcreta2.cs",
+              "RelativeDocumentMoniker": "Laboratorio88\\ClaseConcreta2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio88\\Laboratorio88\\ClaseConcreta2.cs",
+              "RelativeToolTip": "Laboratorio88\\ClaseConcreta2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:08:10.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClaseConcreta1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio88\\Laboratorio88\\ClaseConcreta1.cs",
+              "RelativeDocumentMoniker": "Laboratorio88\\ClaseConcreta1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio88\\Laboratorio88\\ClaseConcreta1.cs",
+              "RelativeToolTip": "Laboratorio88\\ClaseConcreta1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:07:33.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio88\\Laboratorio88\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio88\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio88\\Laboratorio88\\Program.cs",
+              "RelativeToolTip": "Laboratorio88\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T00:58:39.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaseAbstracta.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio88\\Laboratorio88\\ClaseAbstracta.cs",
+              "RelativeDocumentMoniker": "Laboratorio88\\ClaseAbstracta.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 8\\Laboratorio88\\Laboratorio88\\ClaseAbstracta.cs",
+              "RelativeToolTip": "Laboratorio88\\ClaseAbstracta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T01:00:03.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
