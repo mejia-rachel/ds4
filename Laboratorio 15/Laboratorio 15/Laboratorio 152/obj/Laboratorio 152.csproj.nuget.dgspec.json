@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 15\\Laboratorio 152\\Laboratorio 152.csproj": {}
+    "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 15\\Laboratorio 15\\Laboratorio 152\\Laboratorio 152.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 15\\Laboratorio 152\\Laboratorio 152.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 15\\Laboratorio 15\\Laboratorio 152\\Laboratorio 152.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 15\\Laboratorio 152\\Laboratorio 152.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 15\\Laboratorio 15\\Laboratorio 152\\Laboratorio 152.csproj",
         "projectName": "Laboratorio 152",
-        "projectPath": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 15\\Laboratorio 152\\Laboratorio 152.csproj",
-        "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alber\\source\\repos\\ds4\\Laboratorio 15\\Laboratorio 152\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 15\\Laboratorio 15\\Laboratorio 152\\Laboratorio 152.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\ds4\\Laboratorio 15\\Laboratorio 15\\Laboratorio 152\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -42,9 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
